@@ -7,6 +7,6 @@
 #### run npm install 
 
 # Questions
-[https://www.github.com](https://www.github.com)
-[Walkthrough Video](https://www.example.com)
+[https://github.com/JaredC71/cardGenerator](https://github.com/JaredC71/cardGenerator)
+[Walkthrough Video](https://drive.google.com/file/d/12qzuODcLQrx9G-ndEJxWCZ1-RDGwFwgj/view)
 
